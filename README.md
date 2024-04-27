@@ -61,20 +61,6 @@ for real-time object detection.
 - Install python library OpenCV
 - Install Arduino for ESP32
 
-
-## Methodology
-### Assemble the FTDI and ESP32 camera modules
-- Put together the required hardware, such as the FTDI Module and the ESP32 Camera Module.
-- To create the hardware connection, connect the FTDI Module and the ESP32 Camera Module.
-- To get the Arduino Integrated Development Environment (IDE) ready for ESP32 Camera Module programming, set it up.
-- To make the ESP32 Camera Module functioning, upload the necessary firmware to it.
-
-### Install the necessary libraries for python and ESP32
-- Set up the computer to run Python programming language.
-- Install python library OpenCV
-- Install Arduino for ESP32
-
-
 ## Results and Discussion
 When all the completed all the steps then
 we can see two windows named ”live trans-
